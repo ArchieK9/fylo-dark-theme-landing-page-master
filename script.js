@@ -3,7 +3,7 @@ let email = document.getElementById("email")
 let dangerText = document.querySelector(".error")
 let submitBtn = document.querySelector(".btn")
 
-submitBtn.addEventListener( "mouseover" ,(e)=>{
+submitBtn.addEventListener( "click" ,(e)=>{
 
     email.validity.typeMismatch ?
     (e.preventDefault(),
