@@ -44,6 +44,7 @@ body{
     width: 100vw;
     font-size: 14px;
     background-color: hsl(218, 28%, 13%);
+    font-family: 'Open Sans', sans-serif;
 }
 
 header{
@@ -55,6 +56,7 @@ header{
 }
 
 nav a{
+    font-family: 'Raleway', sans-serif;
     color: #fff;
     text-decoration: none;
     transition: .3s;
@@ -74,6 +76,7 @@ nav a:hover{
 }
 
 .intro, header{
+    font-family: 'Raleway', sans-serif;
     background-color: hsl(217, 28%, 15%);
 }
 
@@ -264,6 +267,7 @@ hr{
 }
 
 .cta{
+    font-family: 'Raleway', sans-serif;
     margin: auto;
     background-color: hsl(217, 28%, 15%);
     width: 60%;
