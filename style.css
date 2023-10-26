@@ -647,6 +647,15 @@ footer a:hover{
     .footlogo, .contact, .address,.links1,.links2, .socials, .copyright{
         grid-column: 1/2;
     }
+
+    .error{
+    color: red;
+    text-align: start;
+    position: relative;
+    right: 0rem;
+    margin-top: .2rem;
+    }
+
 }
 
 @media(max-width:375px){
